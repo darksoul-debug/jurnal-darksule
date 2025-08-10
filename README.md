@@ -1,7 +1,7 @@
 # COIT20246 Networking and Cyber Security Journal
 
-- Student Name:
-- Student ID: 
+- Student Name: Umme hani
+- Student ID: 12311167
 - Campus: 
 - Tutor: 
 
